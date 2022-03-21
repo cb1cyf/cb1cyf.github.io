@@ -1,4 +1,3 @@
-# Welcome to Yufeng Cheng's Homepage
 ## About Me
 Hi, I'm Yufeng Cheng. I'm currently pursuing a Master degree at Peking University, advised by Prof. Chen Wang. My research interest is computer vision.
 ## Experience
